@@ -1,0 +1,11 @@
+{
+  "name": "ionic-iot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.9",
+    "cred-types-jolocom-core": "^0.0.9",
+    "ionic-lib": "../ionic-lib"
+  }
+}
